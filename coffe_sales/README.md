@@ -4,6 +4,7 @@
 
 ## Overview
 This project aims to analyze sales data from a coffee shop, providing insights into sales trends, popular products, and customer behavior. The analysis is done using Excel (or another tool), and focuses on key performance metrics such as total revenue, average sales per day, top-selling products, and more.
+![Dashboard](https://github.com/user-attachments/assets/215ccb97-0a60-4eb7-9993-a51fefc01000)
 
 ## Analysis Goals
 The primary goals of the analysis are:
