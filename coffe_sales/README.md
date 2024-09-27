@@ -38,7 +38,6 @@ The primary goals of the analysis are:
 
 ## Tools Used
 - **Excel**: For data analysis, calculations, and visualizations.
-- 
 ## Conclusion
 This analysis provides a detailed overview of the coffee shop's sales performance, helping to make informed decisions on product stocking, promotional strategies, and operational improvements.
 ---
